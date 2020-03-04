@@ -1,0 +1,25 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h3 { color: purple}
+
+.bio{font-size: 18px;}
+
+h3{
+    text-align: left;
+    color: #9bf442;
+    font-weight: bold;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+
+  .bio {
+      color: orangered;
+  }
+  #html 
+  {
+      background-color: aqua;
+  }
